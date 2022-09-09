@@ -1,8 +1,4 @@
-### Olá! Eu sou o LeonardoVBDO
-
-- 🌱 Estudando Java
-- 📫 Contrate-me no email: leonardovbdo25@gmail.com
-
+### Olá! Eu sou o Leonardo e estou estudando Java
 
 <div align="center">
   <a href="https://github.com/leonardovbdo">
