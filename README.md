@@ -1,4 +1,4 @@
-### Olá! Eu sou o Leonardo e estou estudando para ser um desenvolvedor FullStack.
+### Olá! Eu sou o Leonardo e eu sou um desenvolvedor FullStack.
 
 <div align="center">
   <a href="https://github.com/leonardovbdo">
