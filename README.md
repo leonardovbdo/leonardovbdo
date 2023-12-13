@@ -9,7 +9,7 @@
 
 <div align="center">
   <a href="https://github.com/leonardovbdo">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=leonardovbdo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide=contribs&rank_icon=github">
+    <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=leonardovbdo&theme=tokyonight&hide_border=false"/>
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardovbdo&layout=compact&theme=tokyonight&langs_count=6">
   </a>
 </div>
