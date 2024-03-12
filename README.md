@@ -5,13 +5,11 @@
   <a href = "mailto:leonardovbdo25@gmail.com"><img height="25em" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>  
 </div>
 
-###
+<div align='center'>
+ 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardovbdo&custom_title=&layout=compact&bg_color=00000000&text_color=ffffff&hide_border=true&langs_count=10) 
+![Leonardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=leonardovbdo&theme=transparent&show_icons=true&text_color=ffffff&hide_border=true&hide_title=true&line_height=20&text_bold=false&card_width=100) 
 
-<div align="center">
-  <a href="https://github.com/leonardovbdo">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=leonardovbdo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardovbdo&layout=compact&theme=tokyonight&langs_count=7">
-  </a>
 </div>
 
 ## Experiência em
