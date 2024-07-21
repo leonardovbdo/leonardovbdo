@@ -37,3 +37,13 @@
 <div align="center">
   <img height="300em" src="https://i.pinimg.com/originals/f5/8f/e8/f58fe8e19a7e25ddf0c459a3599261d6.gif">
 </div>
+
+### 
+<!-- Cobrinha commits -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/leonardovbdo/leonardovbdo/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/leonardovbdo/leonardovbdo/output/github-contribution-grid-snake-dark.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/leonardovbdo/leonardovbdo/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
