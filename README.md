@@ -32,12 +32,6 @@
   <img align="center" alt="GameMaker2" height="40" width="40" src="https://www.svgrepo.com/show/373618/gamemaker2.svg">
 </div>
 
-###
-
-<div align="center">
-  <img height="300em" src="https://i.pinimg.com/originals/f5/8f/e8/f58fe8e19a7e25ddf0c459a3599261d6.gif">
-</div>
-
 ### 
 <!-- Cobrinha commits -->
 <div align="center">
