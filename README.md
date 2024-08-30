@@ -6,9 +6,9 @@
 </div>
 
 <div align='center'>
- 
+
+![Leonardo's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=leonardovbdo&theme=transparent&show_icons=true&text_color=ffffff&hide_border=true&hide_title=true&line_height=20&text_bold=false&card_width=100)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardovbdo&custom_title=&layout=compact&bg_color=00000000&text_color=ffffff&hide_border=true&langs_count=8) 
-![Leonardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=leonardovbdo&theme=transparent&show_icons=true&text_color=ffffff&hide_border=true&hide_title=true&line_height=20&text_bold=false&card_width=100) 
 
 </div>
 
