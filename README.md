@@ -1,11 +1,4 @@
-
-<div display='flex' justify-content='space-between'>
-  <h2>
-    Olá! Eu sou o Leonardo e eu sou um desenvolvedor FullStack.
-      <a align='right' href = "https://www.linkedin.com/in/leonardo-vilasboas-de-oliveira-4223a6256/"><img height="25em" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-    <a align='right' href = "mailto:leonardovbdo25@gmail.com"><img height="25em" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>  
-  </h2>
-</div>
+## Olá! Eu sou o Leonardo e eu sou um desenvolvedor FullStack.
 
 <div align='center'>
 
